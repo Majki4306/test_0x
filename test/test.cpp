@@ -80,9 +80,11 @@ int main(){
 	peripherals a = peripherals::gpu, b = peripherals::monitor;
 	computer(a);
 	computer(b);
-	if(fruits::pear == peripherals::hdd){
-		cout<<"ELO CO TAM"<<endl;
-	}
+	//if(fruits::pear == peripherals::hdd){
+	//	cout<<"ELO CO TAM"<<endl;
+	//}
+
+	// *** newBranch ***
 
 
 	_getch();
